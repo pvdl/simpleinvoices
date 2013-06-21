@@ -14,4 +14,4 @@
 *	 GPL v2 or above
 */
 *}
-  <meta http-equiv="refresh" content="0;URL=index.php?module=extensions&view=manage" />
+<meta http-equiv="refresh" content="0;URL=index.php?module=extensions&amp;view=manage" />
