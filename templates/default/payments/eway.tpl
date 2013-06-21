@@ -63,7 +63,7 @@
 
 <input type="hidden" name="op" value="add" />
 
-<a href="./index.php?module=cron&view=manage" class="negative">
+<a href="./index.php?module=cron&amp;view=manage" class="negative">
 <img src="./images/common/cross.png" alt="" />
 {$LANG.cancel}
 </a>
